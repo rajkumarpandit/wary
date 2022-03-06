@@ -1,1 +1,2 @@
-# wary
+# Wary
+A new project
